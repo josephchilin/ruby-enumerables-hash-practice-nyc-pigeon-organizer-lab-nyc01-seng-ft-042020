@@ -10,6 +10,8 @@ def nyc_pigeon_organizer(data)
           
           if pigeon_sort[name_key][color_gender_lives_key] == nil
             pigeon_sort[name_key][color_gender_lives_key] = []
+          end
+          
           
           
           
