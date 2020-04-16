@@ -12,6 +12,7 @@ def nyc_pigeon_organizer(data)
             pigeon_sort[name_key][color_gender_lives_key] = []
           end
           
+          stats_string = stats_key.to_s 
           pigeon_sort[name_key][color_gender_lives_key]<<
           
           
