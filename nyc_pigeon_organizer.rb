@@ -12,7 +12,7 @@ def nyc_pigeon_organizer(data)
             pigeon_sort[name_key][color_gender_lives_key] = []
           end
           
-          
+          pigeon_sort[name_key][color_gender_lives_key]<<
           
           
           
